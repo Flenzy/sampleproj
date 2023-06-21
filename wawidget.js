@@ -104,7 +104,7 @@ async function CreateWhatsappChatWidget(
                   </a>
                   <div class='wa-chat-box-poweredby'>âš¡ by <a href="https://bizmagnets.ai" target="_blank" style="color: #006eff6e;">bizmagents.ai</a></div>
               </div>
-          </div>
+          </div> 
           `
     );
     if (option.brandSetting.autoShow) {
